@@ -1,5 +1,7 @@
 # Namaste 🙏 I'm Arjun Reddy
 
+<p>I'm a self-taught web developer currently located in Bengaluru, India. I am working at Starmark Software and have been in the IT industry for over 3 years as a Software Engineer. My main focus is on front-end development. I can create responsive websites using React JS and can automate E2E UI tests using Selenium & Java.</p>
+
 <!--
 **arjunreddy-001/arjunreddy-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
